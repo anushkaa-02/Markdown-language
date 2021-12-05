@@ -68,6 +68,33 @@ __This is also bold__
    - Second item
    
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+- ## Table 
+```
+| topic       | Description |
+| ----------- | ----------- |
+| text1       | Text 2      |
+| text3       | Text 4      |
+
+```
+## Output
+| topic       | Description |
+| ----------- | ----------- |
+| text1       | Text 2      |
+| text3       | Text 4      |
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+- ## Check Box:
+```
+ - [ ] task 1
+ - [x] task 2 
+```
+## Output:
+ - [ ] task 1
+ - [x] task 2 
+ 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png) 
 - ## HORIZONTAL RULE 
 ```
 ---
